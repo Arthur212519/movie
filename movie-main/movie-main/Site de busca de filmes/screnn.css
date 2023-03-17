@@ -311,7 +311,7 @@ a{
 /*Responsive*/
 
 @media (max-width:1200px){
-    #main-slider,#latest,.slider-btns{
+    #main-slider,.slider-btns{
         width: 90%;
     }
     .menu li a{
